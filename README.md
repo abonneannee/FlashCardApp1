@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-
+In this app, we'll add a new screen to our Flashcards app, allowing users to easily create new study cards. This feature provides increased flexibility, enabling users to customize their learning experience by generating flashcards tailored to their specific needs.
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
